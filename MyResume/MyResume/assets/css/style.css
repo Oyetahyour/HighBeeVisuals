@@ -797,7 +797,9 @@ section {
 
 /*--------------------------------------------------------------
 # Services
+
 --------------------------------------------------------------*/
+
 .services .icon-box {
   text-align: center;
   padding: 70px 20px 80px 20px;
@@ -841,7 +843,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #45505b;
+  
   transition: ease-in-out 0.3s;
 }
 
