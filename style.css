@@ -275,7 +275,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 300vh;
+  height: 100vh;
   background: url("/images/About\ 1.jpeg") top right no-repeat;
   background-size: cover;
   position: relative;
